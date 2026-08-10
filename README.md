@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I passionate full stack developer from India</p>
+<p align="left">I passionate backend developer from India</p>
 
 ###
 
