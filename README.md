@@ -1,8 +1,5 @@
 <h1 align="left">Hi 👋 I'm Vishnu Prasad</h1>
 
-###
-
-<p align="left">I passionate backend developer from India</p>
 
 ###
 
